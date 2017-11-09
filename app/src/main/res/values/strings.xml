@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fisp_Beta(1.0)</string>
+    <string name="title_activity_home_page">HomePage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="entries_spinner_create_user">
+        <item>Address Type</item>
+        <item>Manually</item>
+        <item>Automatically</item>
+    </string-array>
+
+</resources>
